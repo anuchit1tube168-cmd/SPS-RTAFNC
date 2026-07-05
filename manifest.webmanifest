@@ -1,0 +1,22 @@
+{
+  "name": "SPS-RTAFNC | ระบบจัดซื้อจัดจ้าง วิธีเฉพาะเจาะจง",
+  "short_name": "SPS-RTAFNC",
+  "description": "ระบบบริหารงานพัสดุ วิธีเฉพาะเจาะจง ใบขอซื้อ/ขอจ้าง รายงานราชการ รองรับทุกอุปกรณ์",
+  "lang": "th",
+  "dir": "ltr",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#053b2b",
+  "theme_color": "#053b2b",
+  "categories": ["business", "productivity", "government"],
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' rx='22' fill='%2311bf87'/%3E%3Ctext x='50' y='68' font-size='54' text-anchor='middle'%3E%F0%9F%9B%92%3C/text%3E%3C/svg%3E",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
